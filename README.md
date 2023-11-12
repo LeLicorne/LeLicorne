@@ -112,14 +112,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeLicorne&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=LeLicorne&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeLicorne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="130" width="100%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeLicorne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/LeLicorne_">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mb7js5oad75prwkezzx7aiabii" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mb7js5oad75prwkezzx7aiabii" width="100%" alt="Spotify recently played"  />
   </a>
 </div>
 
