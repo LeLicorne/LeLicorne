@@ -106,7 +106,7 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <a href="https://cssbattle.dev/player/rywWgHwzmyX2BfQdFQVYIq97VMJ2">
-    <img src="https://img.shields.io/static/v1?message=CSSbattle&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cssbattle logo"  />
+    <img src="https://imgur.com/DekTKY3" height="35" alt="cssbattle logo"  />
   </a>
 </div>
 
