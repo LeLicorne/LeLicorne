@@ -113,9 +113,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeLicorne&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LeLicorne&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeLicorne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
+![LeLicorne's Stats](https://github-readme-stats.vercel.app/api?username=LeLicorne&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![LeLicorne's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeLicorne&theme=vue-dark&hide_border=true)
+![LeLicorne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeLicorne&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ###
